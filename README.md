@@ -19,7 +19,9 @@
 <td width="58%" valign="top">
 
 <sub>ESTUDIANTE DE INGENIERÍA DE SISTEMAS · MEDELLÍN</sub>
+
 <br>
+
 Soy estudiante de Ingeniería de Sistemas apasionada por el desarrollo frontend, el diseño de experiencias de usuario y la construcción de aplicaciones seguras. Me interesa crear productos digitales que no solo sean visualmente atractivos y fáciles de usar, sino también confiables y protegidos frente a vulnerabilidades comunes.
 
 </td>

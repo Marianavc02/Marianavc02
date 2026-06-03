@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jfif" alt="banner" width="100%" />
+  <img src="sobremi.png" alt="banner" width="100%" />
 </p>
 
 <br>

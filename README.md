@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="Recorte.png" alt="banner" width="100%" />
+  <img src="banner.png" alt="banner" width="100%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="corazones.png" width="18"/>
+  <img src="estrella.png" width="18"/>
   &nbsp;
   <strong>Diseño UX/UI &nbsp;·&nbsp; Frontend &nbsp;·&nbsp; Ciberseguridad</strong>
 </p>

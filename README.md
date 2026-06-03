@@ -142,7 +142,15 @@ Participación en un proyecto colaborativo enfocado en resolver problemáticas r
 ## Lenguajes más usados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marianavc02&layout=compact&bg_color=1a1b27&title_color=CF9FFF&text_color=E6E6FA&hide_border=true&border_radius=15&langs_count=6" height="170" />
+
+  <img 
+
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marianavc02&layout=compact&bg_color=1a1b27&title_color=CF9FFF&text_color=E6E6FA&hide_border=true&border_radius=15&langs_count=6"
+
+    height="170"
+
+  />
+
 </p>
 
 ---

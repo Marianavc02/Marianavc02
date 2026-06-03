@@ -160,7 +160,7 @@ Participación en un proyecto colaborativo enfocado en resolver problemáticas r
     height="170"
   />
 </p>
----
+
 
 
 

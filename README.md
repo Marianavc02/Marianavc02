@@ -54,7 +54,7 @@ Soy estudiante de Ingeniería de Sistemas apasionada por el desarrollo frontend,
 </td>
 </tr>
 </table>
----
+
 
 ## Mi objetivo
 

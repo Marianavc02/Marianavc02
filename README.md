@@ -4,9 +4,6 @@
 
 <br>
 
-
-<td align="center" style="border: none;">
-  <img src="corazones.png" width="20"/><br>
   Diseño UX/UI • Frontend • ciberseguridad
 </td>
 

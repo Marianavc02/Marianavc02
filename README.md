@@ -12,37 +12,48 @@
 <br>
 
 ---
-
 ## Sobre mí
-
-<sub>ESTUDIANTE DE INGENIERÍA DE SISTEMAS · MEDELLÍN</sub>
-
-<br>
-
-Soy estudiante de Ingeniería de Sistemas apasionada por el desarrollo frontend, el diseño de experiencias de usuario y la construcción de aplicaciones seguras. Me interesa crear productos digitales que no solo sean visualmente atractivos y fáciles de usar, sino también confiables y protegidos frente a vulnerabilidades comunes.
-
-<br>
 
 <table>
 <tr>
-<td align="center" width="33%">
-  <img src="https://skillicons.dev/icons?i=figma" height="40"/><br><br>
-  <sub><b>Diseño UX/UI</b></sub><br>
-  <sub>Experiencias intuitivas<br>centradas en el usuario</sub>
+<td width="58%" valign="top">
+
+<sub>ESTUDIANTE DE INGENIERÍA DE SISTEMAS · MEDELLÍN</sub>
+
+<br><br>
+
+Soy estudiante de Ingeniería de Sistemas apasionada por el desarrollo frontend, el diseño de experiencias de usuario y la construcción de aplicaciones seguras. Me interesa crear productos digitales que no solo sean visualmente atractivos y fáciles de usar, sino también confiables y protegidos frente a vulnerabilidades comunes.
+
 </td>
-<td align="center" width="33%">
-  <img src="https://skillicons.dev/icons?i=html" height="40"/><br><br>
-  <sub><b>Desarrollo Frontend</b></sub><br>
-  <sub>Interfaces accesibles<br>y bien construidas</sub>
-</td>
-<td align="center" width="33%">
-  <img src="https://skillicons.dev/icons?i=github" height="40"/><br><br>
-  <sub><b>Ciberseguridad</b></sub><br>
-  <sub>Aplicaciones seguras<br>y confiables</sub>
+<td width="42%" valign="top">
+
+<table>
+<tr><td>
+
+**Diseño UX/UI**
+<br>
+<sub>Experiencias centradas en el usuario</sub>
+
+</td></tr>
+<tr><td>
+
+**Frontend**
+<br>
+<sub>Interfaces accesibles y bien construidas</sub>
+
+</td></tr>
+<tr><td>
+
+**Ciberseguridad**
+<br>
+<sub>Aplicaciones seguras y confiables</sub>
+
+</td></tr>
+</table>
+
 </td>
 </tr>
 </table>
-
 ---
 
 ## Mi objetivo

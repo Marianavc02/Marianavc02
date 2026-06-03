@@ -208,11 +208,9 @@ Participación en un proyecto colaborativo enfocado en resolver problemáticas r
 ## Conecta conmigo
 
 <p align="center">
-  <a href="https://linkedin.com/">
+  <a href="https://www.linkedin.com/in/mariana-valderrama-casta%C3%B1eda-654a40341">
     <img src="https://img.shields.io/badge/LinkedIn-B48CF0?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:alexahurtadodavid@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D8B4FE?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  
 </p>

@@ -98,7 +98,7 @@ Participación en un proyecto colaborativo enfocado en resolver problemáticas r
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=alexahurtado08&theme=tokyonight&hide_border=true&ring=CF9FFF&fire=DA70D6&currStreakLabel=E6E6FA&sideLabels=D8B4FE&dates=BFA2DB&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Marianavc02&theme=tokyonight&hide_border=true&ring=CF9FFF&fire=DA70D6&currStreakLabel=E6E6FA&sideLabels=D8B4FE&dates=BFA2DB&currStreakNum=FFFFFF&sideNums=FFFFFF"
   />
 </p>
 
@@ -108,7 +108,7 @@ Participación en un proyecto colaborativo enfocado en resolver problemáticas r
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexahurtado08&layout=compact&bg_color=1a1b27&title_color=CF9FFF&text_color=E6E6FA&hide_border=true&border_radius=15&langs_count=6"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marianavc02&layout=compact&bg_color=1a1b27&title_color=CF9FFF&text_color=E6E6FA&hide_border=true&border_radius=15&langs_count=6"
     height="170"
   />
 </p>

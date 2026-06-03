@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="estrella.png" width="18"/>
+  <img src="estrellita.png" width="18"/>
   &nbsp;
   <strong>Diseño UX/UI &nbsp;·&nbsp; Frontend &nbsp;·&nbsp; Ciberseguridad</strong>
 </p>

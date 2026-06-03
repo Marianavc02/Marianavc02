@@ -94,9 +94,7 @@ Participación en un proyecto colaborativo enfocado en resolver problemáticas r
 # GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Marianavc02&theme=tokyonight&hide_border=true&ring=CF9FFF&fire=DA70D6&currStreakLabel=E6E6FA&sideLabels=D8B4FE&dates=BFA2DB&currStreakNum=FFFFFF&sideNums=FFFFFF"
-  />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Marianavc02&theme=tokyonight&hide_border=true&ring=CF9FFF&fire=DA70D6&currStreakLabel=E6E6FA&sideLabels=D8B4FE&dates=BFA2DB&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </p>
 
 ---
